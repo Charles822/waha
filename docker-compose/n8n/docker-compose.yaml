@@ -2,8 +2,8 @@ services:
   waha:
     restart: always
     container_name: waha
-    # image: devlikeapro/waha:latest
-    image: devlikeapro/waha-plus:latest
+    image: devlikeapro/waha:latest
+    # image: devlikeapro/waha-plus:latest
     ports:
       - '3000:3000/tcp'
     volumes:
