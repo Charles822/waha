@@ -1,7 +1,7 @@
 services:
   waha:
     restart: always
-    container_name: waha
+    container_name: waha_waha
     image: devlikeapro/waha:latest
     # image: devlikeapro/waha-plus:latest
     ports:
