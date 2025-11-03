@@ -1,5 +1,5 @@
 services:
-  waha:
+   easypanel:
     restart: always
     container_name: waha_waha
     image: devlikeapro/waha:latest
