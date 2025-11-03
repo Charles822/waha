@@ -1,6 +1,6 @@
 # https://waha.devlike.pro/docs/how-to/install/
 services:
-  waha:
+  easypanel:
     restart: always
     # https://waha.devlike.pro/docs/how-to/engines/#docker-images
     # https://portal.devlike.pro/docker-image
