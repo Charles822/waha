@@ -1,7 +1,7 @@
 services:
    easypanel:
     restart: always
-    container_name: waha_waha
+    container_name: easypanel
     image: devlikeapro/waha:latest
     # image: devlikeapro/waha-plus:latest
     ports:
